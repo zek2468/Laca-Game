@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"blank","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"Main 4","classId":2,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"Main 4 Menu","traits":[],"initialLevel":1,"maxLevel":99,"name":"Cole","nickname":"","note":"<Menu Bust: BC>","profile":""},
+{"id":3,"battlerName":"","characterIndex":2,"characterName":"Main 4","classId":3,"equips":[3,0,2,3,4],"faceIndex":2,"faceName":"Main 4 Menu","traits":[],"initialLevel":1,"maxLevel":99,"name":"Raven","nickname":"","note":"<Menu Bust: BR>","profile":""},
+{"id":4,"battlerName":"","characterIndex":3,"characterName":"Main 4","classId":4,"equips":[4,0,2,3,4],"faceIndex":3,"faceName":"Main 4 Menu","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jenny","nickname":"","note":"<Menu Bust: BJ>","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"Main 4","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Main 4 Menu","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rhonda","nickname":"","note":"<Menu Bust: BP2>","profile":""},
+{"id":6,"battlerName":"","characterIndex":4,"characterName":"Main 4","classId":1,"equips":[0,1,2,3,0],"faceIndex":4,"faceName":"Main 4 Menu","traits":[],"initialLevel":1,"maxLevel":99,"name":"Randy","nickname":"","note":"<Menu Bust: BP1>","profile":""}
+]
