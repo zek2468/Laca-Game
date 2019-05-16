@@ -1,0 +1,49 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,-1,10,10,offbot,center,IslandHere>
+CREDITS
+
+\c[2]Story Team
+Josh Green
+Doug Harrington
+Gabriel Morrison
+Grant Ritchey
+
+\c[2]Artist Team
+Shawn Bindner
+Holden Hardy
+Shannon Heist
+Rachelle Miller
+Miranda Vasquez
+
+\c[2]Mechanics Team
+Jared Dutiel
+Brandon Parker
+Rey “Big Burrito” Perez
+Daylen Perkins
+Cade Plotts
+
+\c[2]Maps Team
+Kevin “Randy” Boerstler
+Ellis Campen
+Brayden Deweese
+Bailey Dittoe
+Mason Maas
+Dawson Mecum
+Kaleb Messer
+Stephen Stone
+Matthew White
+
+\c[2]Project Babies
+*None*
+
+\c[2]Clean Up Team
+Team ThanosCopter
+
+\c[1]Special Thanks
+Mr. Vukovic
+The Staff of LHS
+Randy
+SQL
+</block>
