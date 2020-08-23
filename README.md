@@ -45,9 +45,6 @@ Kaleb Messer
 Stephen Stone  
 Matthew White  
 
-###### Project Babies
-*None*
-
 ###### Clean Up Team
 Team ThanosCopter
 
